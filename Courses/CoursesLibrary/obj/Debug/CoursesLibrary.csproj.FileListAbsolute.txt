@@ -1,0 +1,5 @@
+c:\users\itl\documents\visual studio 2013\Projects\Xamarin\Courses\CoursesLibrary\bin\Debug\CoursesLibrary.dll
+c:\users\itl\documents\visual studio 2013\Projects\Xamarin\Courses\CoursesLibrary\bin\Debug\CoursesLibrary.pdb
+c:\users\itl\documents\visual studio 2013\Projects\Xamarin\Courses\CoursesLibrary\obj\Debug\CoursesLibrary.csprojResolveAssemblyReference.cache
+c:\users\itl\documents\visual studio 2013\Projects\Xamarin\Courses\CoursesLibrary\obj\Debug\CoursesLibrary.dll
+c:\users\itl\documents\visual studio 2013\Projects\Xamarin\Courses\CoursesLibrary\obj\Debug\CoursesLibrary.pdb
